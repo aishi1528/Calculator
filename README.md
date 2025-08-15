@@ -12,5 +12,5 @@ A sleek, responsive calculator built with HTML, CSS, and JavaScript
 
 Curious to try it out? The calculator is live here:
 
-👉 [Launch Calculator](https://aishi1528.github.io/calculator)
+👉 [Launch Calculator](https://aishi1528.github.io/Calculator/)
 
